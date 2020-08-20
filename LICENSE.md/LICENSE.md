@@ -1,0 +1,1 @@
+This website is totally redesigned, recoded and customised from a template. So all previous licences available in the previous template's licence remains valid, and is applicable within the usability of this present licence.
