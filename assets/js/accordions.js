@@ -9215,7 +9215,7 @@ $.ui.intersect = (function() {
 })();
 
 /*
-	This manager tracks offsets of draggables and droppables
+	This manager tracks offsets of draggables and droppables. Omo! I tire.
 */
 $.ui.ddmanager = {
 	current: null,
@@ -16580,3 +16580,5 @@ var tooltip = $.widget( "ui.tooltip", {
 
 
 }));
+
+// closed the file. END.
